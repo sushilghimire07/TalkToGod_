@@ -24,27 +24,7 @@ Category	Technologies
 Frontend	React, React Router, React Query, TailwindCSS, DaisyUI, Lucide-React
 Backend	Node.js, Express.js, MongoDB, JWT
 Tools	Vite, Axios, ESLint, dotenv
-📁 Folder Structure
-talktogod/
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middlewares/
-│   └── server.js
-│
-├── frontend/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── hooks/
-│   │   ├── lib/
-│   │   ├── pages/
-│   │   └── App.jsx
-│   └── index.html
-│
-└── README.md
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
