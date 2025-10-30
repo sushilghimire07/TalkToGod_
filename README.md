@@ -1,14 +1,7 @@
 🌟 TalkToGod
 
-
-
-
-
-
-
-
-TalkToGod is a modern social and communication web app where users can connect, chat, make friends, and share spiritual or personal conversations in a clean and aesthetic interface.
-Built with the MERN Stack, it focuses on real-time interactions and beautiful UI/UX design.
+TalkToGod is a modern social and communication web app where users can connect, chat, make friends, and share spiritual or personal conversations — all in a clean and elegant interface.
+Built using the MERN Stack, it focuses on real-time interactions, a smooth user experience, and beautiful design.
 
 🚀 Features
 
@@ -16,13 +9,13 @@ Built with the MERN Stack, it focuses on real-time interactions and beautiful UI
 
 🙋 User Profiles – Profile picture, name, email, and bio
 
-💬 Chat System – Interactive and clean messenger-style chat interface
+💬 Chat System – Modern messenger-style chat UI
 
 👥 Friends System – Add, view, and manage your friends
 
 🔔 Notifications – Real-time friend requests and updates
 
-🖼 Beautiful UI – Styled with TailwindCSS + DaisyUI + Lucide Icons
+🖼 Beautiful UI – TailwindCSS + DaisyUI + Lucide Icons
 
 🌗 Dark/Light Mode – Fully responsive and theme-adaptive
 
@@ -69,25 +62,25 @@ npm install
 npm run dev
 
 
-Frontend runs on http://localhost:5173
-Backend runs on http://localhost:5000
+🖥️ Frontend: http://localhost:5173
+
+⚙️ Backend: http://localhost:5000
 
 🧭 Usage
 
-Register or log in.
+Register or log in
 
-Set up your profile and preferences.
+Set up your profile and preferences
 
-Explore and add friends.
+Explore and add friends
 
-Chat, send messages, and enjoy the smooth UI.
+Chat and enjoy the clean UI
 
-Receive real-time notifications about new connections.
-
+Receive real-time friend notifications
 
 🤝 Contributing
 
-Contributions are welcome!
+Contributions are welcome! 💡
 
 Fork the project
 
@@ -101,9 +94,15 @@ Commit your changes
 git commit -m "Add new feature"
 
 
-Push to the branch
+Push your branch
 
 git push origin feature/YourFeature
 
 
 Open a Pull Request 🎉
+
+👤 Author
+
+Sushil Ghimire
+📍 BSc CSIT Student | MERN Stack Developer
+🌐 GitHub: @sushilghimire07
