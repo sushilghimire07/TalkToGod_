@@ -47,7 +47,7 @@ const LoginPage = () => {
           <form onSubmit={handleLogin} className="flex flex-col gap-3">
             <input
               type="email"
-              placeholder="Email"
+              placeholder="Email Address"
               className="input input-bordered w-full bg-black/70 border-[#0ff] text-[#0ff] placeholder-[#0ff]/60 focus:border-[#f0f] focus:ring-[#f0f]"
               value={loginData.email}
               onChange={(e) => setLoginData({ ...loginData, email: e.target.value })}

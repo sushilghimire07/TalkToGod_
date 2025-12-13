@@ -63,7 +63,7 @@ const OnboardingPage = () => {
                 {formState.profilePic ? (
                   <img
                     src={formState.profilePic}
-                    alt="Profile Preview"
+                    alt="Profile Previe...w"
                     className="w-full h-full object-cover transition-all duration-300 hover:scale-105"
                   />
                 ) : (
@@ -105,7 +105,7 @@ const OnboardingPage = () => {
                 <span className="label-text font-medium text-[#0ff]">Short Bio</span>
               </label>
               <textarea
-                placeholder="Tell others about yourself..."
+                placeholder="Tell others about yourself...."
                 value={formState.bio}
                 onChange={(e) =>
                   setFormState({ ...formState, bio: e.target.value })
@@ -165,7 +165,7 @@ const OnboardingPage = () => {
               <MapPinIcon className="absolute left-3 top-1/2 -translate-y-1/2 size-5 text-[#0ff]/70 pointer-events-none" />
               <input
                 type="text"
-                placeholder="City, Country"
+                placeholder="City, Country.."
                 value={formState.location}
                 onChange={(e) =>
                   setFormState({ ...formState, location: e.target.value })

@@ -51,7 +51,7 @@ const SignupPage = () => {
           <form onSubmit={handleSignup} className="flex flex-col gap-3">
             <input
               type="text"
-              placeholder="Full Name"
+              placeholder="Full Name....."
               className="input input-bordered w-full bg-black/70 border-[#0ff] text-[#0ff] placeholder-[#0ff]/60 focus:border-[#f0f] focus:ring-[#f0f]"
               value={signupData.fullName}
               onChange={(e) => setSignupData({ ...signupData, fullName: e.target.value })}
@@ -59,7 +59,7 @@ const SignupPage = () => {
             />
             <input
               type="email"
-              placeholder="Email"
+              placeholder="Email....."
               className="input input-bordered w-full bg-black/70 border-[#0ff] text-[#0ff] placeholder-[#0ff]/60 focus:border-[#f0f] focus:ring-[#f0f]"
               value={signupData.email}
               onChange={(e) => setSignupData({ ...signupData, email: e.target.value })}
@@ -67,7 +67,7 @@ const SignupPage = () => {
             />
             <input
               type="password"
-              placeholder="Password"
+              placeholder="Password...."
               className="input input-bordered w-full bg-black/70 border-[#0ff] text-[#0ff] placeholder-[#0ff]/60 focus:border-[#f0f] focus:ring-[#f0f]"
               value={signupData.password}
               onChange={(e) => setSignupData({ ...signupData, password: e.target.value })}
