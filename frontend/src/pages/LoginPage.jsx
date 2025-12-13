@@ -66,7 +66,7 @@ const LoginPage = () => {
               disabled={isPending}
               className="btn w-full bg-[#0ff] hover:bg-[#f0f] text-black font-bold"
             >
-              {isPending ? "Signing in..." : "Sign In"}
+              {isPending ? "Signing in...." : "Sign In"}
             </button>
           </form>
 
