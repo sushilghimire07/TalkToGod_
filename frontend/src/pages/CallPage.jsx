@@ -70,8 +70,10 @@ const CallPage = () => {
       }
     };
 
+
     initCall();
   }, [tokenData, authUser, callId]);
+
 
   if (isLoading || isConnecting) return <PageLoader />;
 
@@ -94,6 +96,8 @@ const CallPage = () => {
   );
 };
 
+
+
 const CallContent = () => {
   const { useCallCallingState } = useCallStateHooks();
   const callingState = useCallCallingState();
@@ -109,5 +113,6 @@ const CallContent = () => {
     </StreamTheme>
   );
 };
+
 
 export default CallPage;
