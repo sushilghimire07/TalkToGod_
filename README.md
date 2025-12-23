@@ -7,23 +7,35 @@ Built using the MERN Stack, it focuses on real-time interactions, a smooth user 
 
 🔐 Authentication – Secure login and signup with JWT
 
+
 🙋 User Profiles – Profile picture, name, email, and bio
+
 
 💬 Chat System – Modern messenger-style chat UI
 
+
 👥 Friends System – Add, view, and manage your friends
+
 
 🔔 Notifications – Real-time friend requests and updates
 
+
 🖼 Beautiful UI – TailwindCSS + DaisyUI + Lucide Icons
 
+
 🌗 Dark/Light Mode – Fully responsive and theme-adaptive
+
+
+
 
 🛠️ Tech Stack
 Category	Technologies
 Frontend	React, React Router, React Query, TailwindCSS, DaisyUI, Lucide-React
 Backend	Node.js, Express.js, MongoDB, JWT
 Tools	Vite, Axios, ESLint, dotenv
+
+
+
 
 
 ⚙️ Installation & Setup
