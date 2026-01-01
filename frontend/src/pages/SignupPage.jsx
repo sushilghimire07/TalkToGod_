@@ -102,6 +102,7 @@ const SignupPage = () => {
     className="rounded-xl shadow-xl object-cover w-60 h-80"
   />
 </div>
+
       </div>
     </div>
   );

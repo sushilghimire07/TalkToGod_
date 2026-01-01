@@ -5,6 +5,7 @@ export const protectRoute = async (req, res, next) => {
   try {
     const token = req.cookies.jwt;
 // check if token exists
+//tftft
     if (!token) {
       return res.status(401).json({ message: "Unauthorized - No token provided" });
     }
