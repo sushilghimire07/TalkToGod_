@@ -183,7 +183,7 @@ const OnboardingPage = () => {
               {isPending ? (
                 <>
                   <Loader2Icon className="animate-spin size-5 mr-2" />
-                  Submitting...
+                  Submitting....
                 </>
               ) : (
                 <>
